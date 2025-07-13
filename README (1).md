@@ -50,7 +50,7 @@ Edit
 ## 🖼️ Circuit Diagram
 
 ![Circuit Diagram](Serial-Device-Control.png)
-![Circuit Diagram](Serial-Device-Control.png)
+![Circuit Diagram](Serial-Device-Control.jpg)
 
 
 
