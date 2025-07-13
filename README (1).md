@@ -61,7 +61,7 @@ Edit
 ## 💻 Arduino Code
 
 📂 Click to view the full code file here:  
-[`serial_device_control.ino`](./serial_device_control.ino)
+[`serial_device_control.ino`](images/Epic Lahdi.png)
 
 ---
 
