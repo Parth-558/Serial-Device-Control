@@ -49,7 +49,7 @@ Edit
 
 ## 🖼️ Circuit Diagram
 
-![Circuit Diagram](images/Epic Lahdi.png)
+![Circuit Diagram](Serial-Device-Control.png)
 
 > Make sure:
 > - LED → Pin 8 with 220Ω resistor  
